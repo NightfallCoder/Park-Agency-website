@@ -168,7 +168,7 @@ span{
     padding-top:50px;
 }
 .about-img{
-    height:500px;
+    height:450px;
     align-items: center;
 }
 .about-para{
@@ -239,7 +239,7 @@ span{
 .social-icon img{
     width:60px;
     transition: 0.5s;
-    margin-left:25px;
+    margin-left:15px;
 }
 .social-icon a:hover img{
     transform: translateY(-10px);
